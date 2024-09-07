@@ -1,1 +1,2 @@
-Rebbot usage of Git
+Reboot usage of Git
+Try to commit again and learn more!
