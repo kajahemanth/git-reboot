@@ -4,3 +4,5 @@ Try to commit again and learn more!
 Created a new branch!
 
 Create a new commit!
+
+LEarn more about merge!
