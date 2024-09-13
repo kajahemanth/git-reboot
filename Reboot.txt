@@ -2,3 +2,5 @@ Reboot usage of Git
 Try to commit again and learn more!
 
 Created a new branch!
+
+Create a new commit!
