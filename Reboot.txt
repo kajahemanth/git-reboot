@@ -6,3 +6,5 @@ Created a new branch!
 Create a new commit!
 
 LEarn more about merge!
+
+Learn to merge with no FF!
